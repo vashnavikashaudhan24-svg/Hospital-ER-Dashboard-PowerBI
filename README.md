@@ -58,9 +58,19 @@ The dashboard is structured into four interactive views:
 
 ## 📁 File Structure & Documentation
 
-* Hospital ER Dashboard.pbix (Main Power BI Report File)
-* Hospital ER Data.xlsx (Source Data File)
-* DATA_TERMINOLOGY.md (Crucial documentation explaining all data fields and definitions)
+* [*Hospital ER Dashboard.pbix* (Main Power BI Report File)](https://github.com/vashnavikashaudhan24-svg/Hospital-ER-Dashboard-PowerBI/blob/main/Hospital%20Emergency%20Room%20Dashboard.pbit)
+* [*Hospital ER Data.xlsx* (Source Data File)](https://github.com/vashnavikashaudhan24-svg/Hospital-ER-Dashboard-PowerBI/blob/main/Hospital%20ER_Data.csv)
+* [*DATA_TERMINOLOGY.md* (Crucial documentation explaining all data fields and definitions)](https://github.com/vashnavikashaudhan24-svg/Hospital-ER-Dashboard-PowerBI/blob/main/Data%20Terminology.docx)
+
+---
+
+## 📸 Screenshots (Dashboard Images)
+
+| Consolidated View | Monthly View | Patient Details | Key Takeaways |
+| :---: | :---: | :---: | :---: |
+| ![Consolidated View](https://github.com/vashnavikashaudhan24-svg/Hospital-ER-Dashboard-PowerBI/blob/main/Screenshot%20112147.png) | ![Monthly View](https://github.com/vashnavikashaudhan24-svg/Hospital-ER-Dashboard-PowerBI/blob/main/Screenshot%20111944.png)) | ![Patient Details](https://github.com/vashnavikashaudhan24-svg/Hospital-ER-Dashboard-PowerBI/blob/main/Screenshot%20150122.png) | ![Key Takeaways](https://github.com/vashnavikashaudhan24-svg/Hospital-ER-Dashboard-PowerBI/blob/main/Screenshot%20150213.png) |
+
+
 
 ---
 *Thank you for exploring this project!*
