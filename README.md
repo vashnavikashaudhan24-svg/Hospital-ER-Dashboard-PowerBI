@@ -1,2 +1,3 @@
 # Hospital-ER-Dashboard-PowerBI
-Hospital ER Dashboard project. Built with Power BI &amp; Excel. Analyzes 9,200+ patient encounters (Apr '23 - Oct '24) to optimize wait times (avg. 35.3 min), identify peak hours (Mon, 7 PM, 11 PM), and improve patient satisfaction. Key insights for resource planning and better patient care.
+## Project  Objective
+This project aims to analyze Hospital Emergency Room (ER) data for 9,200+ patients using Power BI to provide comprehensive operational and patient experience insights. The objective is to track key performance indicators (KPIs) like Avg Wait Time and Patient Satisfaction, identify peak operational demand (Mondays, 7 PM/11 PM), and inform strategic decisions for resource allocation and efficiency across the hospital.
