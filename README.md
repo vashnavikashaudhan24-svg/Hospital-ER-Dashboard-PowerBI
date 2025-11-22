@@ -68,7 +68,7 @@ The dashboard is structured into four interactive views:
 
 | Consolidated View | Monthly View | Patient Details | Key Takeaways |
 | :---: | :---: | :---: | :---: |
-| ![Consolidated View](https://github.com/vashnavikashaudhan24-svg/Hospital-ER-Dashboard-PowerBI/blob/main/Screenshot%20112147.png) | ![Monthly View](https://github.com/vashnavikashaudhan24-svg/Hospital-ER-Dashboard-PowerBI/blob/main/Screenshot%20111944.png)) | ![Patient Details](https://github.com/vashnavikashaudhan24-svg/Hospital-ER-Dashboard-PowerBI/blob/main/Screenshot%20150122.png) | ![Key Takeaways](https://github.com/vashnavikashaudhan24-svg/Hospital-ER-Dashboard-PowerBI/blob/main/Screenshot%20150213.png) |
+| ![Consolidated View](https://github.com/vashnavikashaudhan24-svg/Hospital-ER-Dashboard-PowerBI/blob/main/Screenshot%20112147.png) | ![Monthly View](https://github.com/vashnavikashaudhan24-svg/Hospital-ER-Dashboard-PowerBI/blob/main/Screenshot%20111944.png) | ![Patient Details](https://github.com/vashnavikashaudhan24-svg/Hospital-ER-Dashboard-PowerBI/blob/main/Screenshot%20150122.png) | ![Key Takeaways](https://github.com/vashnavikashaudhan24-svg/Hospital-ER-Dashboard-PowerBI/blob/main/Screenshot%20150213.png) |
 
 
 
